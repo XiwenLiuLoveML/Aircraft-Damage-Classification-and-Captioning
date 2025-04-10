@@ -1,4 +1,4 @@
-# Aircraft-Damage-Classification-and-Captioning
+
 # Aircraft Damage Classification and Multimodal Captioning with Cross-Attention
 
 ## Project Overview
